@@ -3,7 +3,7 @@ Embark on an exhilarating journey of web development with my "50 Days, 50 WebDev
 
 Join me:
 
-Live Demo - 
+Live Demo - https://codelikeamachine.github.io/Day24of50-EasyBank-Landing-Page-Website/
 
 Github - https://github.com/Codelikeamachine
 
